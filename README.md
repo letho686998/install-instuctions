@@ -107,7 +107,9 @@ Cách 1: Dùng IDE (IntelliJ/Eclipse)
 - Ấn chạy class `SneakeryApplication.java` phía trên cùng
 
 Cách 2: Dùng CMD
+
 *Khuyên dùng cmd hoặc Terminal*
+
 *Chuyển đến thư mục backend và chạy lệnh*
 ```bash
 cd sneakery-backend
