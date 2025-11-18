@@ -30,11 +30,12 @@ git checkout update/dev-pos
 
 1. **Copy file cấu hình:**
 Thêm sneakery-backend\src\main\resources\application.properties
+
 *Đã có trong file zip chỉnh sửa theo cá nhân*
 
-2. **Mở file:** `sneakery-backend/src/main/resources/application.properties`
+3. **Mở file:** `sneakery-backend/src/main/resources/application.properties`
 
-3. **Sửa các biến môi trường:**
+4. **Sửa các biến môi trường:**
 ```properties
 spring.datasource.username=${DB_USERNAME:YOUR_PASSWORD_HERE}
 spring.datasource.password=${DB_PASSWORD:YOUR_JWT_SECRET_KEY_HERE}
