@@ -110,7 +110,9 @@ Cách 2: Dùng CMD
 
 *Khuyên dùng cmd hoặc Terminal*
 
-*Chuyển đến thư mục backend và chạy lệnh*
+*Mở đường dẫn đến thư mục project sneakery-store*
+
+*Sau đó chạy lệnh*
 ```bash
 cd sneakery-backend
 mvn spring-boot:run
