@@ -15,7 +15,7 @@ git checkout update/dev-pos
 
 1. Mở **SQL Server Management Studio (SSMS)**
 2. Kết nối với server: `localhost` (Authentication: Windows Authentication)
-3. Mở và chạy file: `sneakery-database/1_CREATE_SCHEMA.sql` (nhấn F5)
+3. Mở và chạy file: `sneakery-database\1_CREATE_SCHEMA.sql` (nhấn F5)
 4. Mở và chạy file: `sneakery-database\2_ADD_INDEXES.sql` (nhấn F5)
 5. Mở và chạy file: `sneakery-database\3_ADD_CONSTRAINTS.sql` (nhấn F5)
 6. Mở và chạy file: `sneakery-database\4_INSERT_DATA_PART1.sql` (nhấn F5)
