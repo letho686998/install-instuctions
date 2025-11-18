@@ -82,10 +82,12 @@ mvn clean install
 ### 🎨 **Bước 4: Cài đặt Frontend**
 
 **Cài đặt dependencies:**
+
 Trong CMD hoặc Terminal:
-*Mở đường dẫn đến thư mục project*
-*Ví dụ: cd C:User/LTT/Desktop/New/sneakery-store*
-*Sau đó chạy lệnh*
+
+*Mở đường dẫn đến thư mục project
+Ví dụ: cd C:User/LTT/Desktop/New/sneakery-store
+Sau đó chạy lệnh*
 ```bash
 cd sneakery-frontend
 npm install
