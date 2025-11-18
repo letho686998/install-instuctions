@@ -65,6 +65,7 @@ spring.mail.password=${MAIL_PASSWORD:aaa}
 4. **Cài đặt dependencies:**
 
 *Chú ý: Kiểm tra Project Structure (Ctrl + Alt + Shift + S) → Project → Project SDK phải là Java 21.0.8*
+
 *Cách 1: Dùng CMD*
 ```bash
 cd sneakery-backend
