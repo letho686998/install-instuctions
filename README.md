@@ -22,6 +22,7 @@ git checkout update/dev-pos
 7. Mở và chạy file: `sneakery-database\5_INSERT_DATA_PART2.sql` (nhấn F5)
 
 ✅ **Hoàn thành: Database `sneakery_db` đã được tạo!**
+
 *Chú ý: Trong trường hợp DB của bạn đã tồn tại nó sẽ được tạo mới và cập nhật dữ liệu mới nhất*
 ---
 
